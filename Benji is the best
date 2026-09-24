@@ -2,5 +2,5 @@
 print("8am - Python Programming")
 print("10:30am - Break Time")
 print("12pm - Math Class")
-print("1pm - Lunch Time")
-print("2pm - Essay class")
+#This is added to the code
+print("3pm - Break Time")
